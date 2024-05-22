@@ -1,0 +1,18 @@
+.email_sig .contain {
+  padding: 10% 2em;
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+.html_code {
+  border: 1px solid #C9C9CC;
+  margin: 5.5em 0 0;
+  overflow: scroll;
+  padding: 2em;
+}
+
+.html_code pre {
+  margin: 0;
+}
+
+/*# sourceMappingURL=email_sig.css.map */
