@@ -1754,7 +1754,7 @@ Remodal's default mobile first theme
 ========================================================================== */
 /* Default theme styles of the overlay */
 .remodal-overlay {
-  background: rgba(18, 21, 22, 0.8);
+  background: rgba(247, 248, 249, 0.8);
 }
 
 .remodal-overlay.remodal-is-opening, .remodal-overlay.remodal-is-closing {
